@@ -1,0 +1,2 @@
+include ':app', ':domain', ':data', ':data_remote', ':presentation'
+rootProject.name='BitcoinChartApp'
